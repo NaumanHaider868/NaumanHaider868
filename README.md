@@ -1,24 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nauman Haider</h1>
-<h3 align="center">A frontend developer from Pakistan</h3>
-<img align='right' alt='Coding' width='400' src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif" />
+<!--
+  Hi there! Welcome to my GitHub profile.
+  Feel free to connect with me or check out my work below!
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naumanhaider868&label=Profile%20views&color=0e75b6&style=flat" alt="naumanhaider868" /> </p>
+<h1 align="center">Hi, I'm Nauman Haider 👋</h1>
+<h3 align="center">MERN Stack Developer | Building scalable, modern web applications</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
-
-- 📫 How to reach me **naumanhaider868@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nauman-haider-107002295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nauman-haider-107002295/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/naumanh_43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naumanh_43/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nauman-haider-107002295/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanhaider868&show_icons=true&locale=en&layout=compact" alt="naumanhaider868" /></p>
+### 👨‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naumanhaider868&show_icons=true&locale=en" alt="naumanhaider868" /></p>
+- 🌍 I’m Nauman, a **MERN Stack Developer** with experience in **ReactJS, Node.js, Express, and MongoDB**.  
+- 🚀 Skilled in building **production-ready web applications** with clean architecture and scalable solutions.  
+- 👥 Team-oriented, with hands-on experience contributing to **real-world projects** in collaborative environments.  
+- 🎯 Currently focused on **Next.js, TypeScript, and backend development** to grow into a full-stack role.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanhaider868&" alt="naumanhaider868" /></p>
+---
+
+### 🛠️ Tech Stack  
+
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+
+---
+
+### 🌟 Featured Projects  
+
+- **[AI Recruitment Portal](#)** → An AI-powered platform to streamline hiring processes. *(Demo available on request)*  
+- **[Clothing App Backend](https://github.com/NaumanHaider868/clothing-backend-typescript)** → E-commerce backend built with **TypeScript, Prisma, and Node.js**.  
+- **Instagram Clone** → A social media app replicating **Instagram’s core features** with React & Tailwind.  
+- 🏢 **Team Projects @ Remain Systems** → Contributed to building **project management tools** similar to *Jira & ClickUp*.  
+
+---
+
+### 🤝 Connect With Me  
+
+- 📫 [LinkedIn](https://www.linkedin.com/in/nauman-haider-107002295/)  
+- 🏏 Fun fact: I’m a big cricket fan and love exploring history in my free time.  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaumanHaider868&show_icons=true&theme=radical" alt="Nauman's GitHub stats" />
+</p>
