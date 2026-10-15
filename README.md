@@ -26,25 +26,6 @@ I'm a **Full Stack Engineer focused on end-to-end product development**, buildin
 
 I enjoy owning problems end to end, understanding the business requirements, and turning them into working software.
 
----
-
-### 📈 GitHub Contributions & Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NaumanHaider868&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NaumanHaider868&theme=tokyo-night&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -111,26 +92,6 @@ I enjoy owning problems end to end, understanding the business requirements, and
 - Background jobs, caching, and real-time communication
 - CI/CD, Linux servers, and production deployment
 - AI-assisted product features and automation
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NaumanHaider868&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanHaider868&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
