@@ -1,63 +1,145 @@
-<!--
-  Hi there! Welcome to my GitHub profile.
-  Feel free to connect with me or check out my work below!
--->
 
-<h1 align="center">Hi, I'm Nauman Haider 👋</h1>
-<h3 align="center">MERN Stack Developer | Building scalable, modern web applications</h3>
+<h1 align="center">Full Stack Engineer | End-to-End Product Development 🚀</h1>
+
+<h3 align="center">
+  Building scalable SaaS platforms, modern web applications, and production-ready systems
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nauman-haider-107002295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-End--to--End%20Engineering-6C63FF" alt="End-to-End Engineering" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me
 
-- 🌍 I’m Nauman, a **MERN Stack Developer** with experience in **ReactJS, Node.js, Express, and MongoDB**.  
-- 🚀 Skilled in building **production-ready web applications** with clean architecture and scalable solutions.  
-- 👥 Team-oriented, with hands-on experience contributing to **real-world projects** in collaborative environments.  
-- 🎯 Currently focused on **Next.js, TypeScript, and backend development** to grow into a full-stack role.  
+I'm a **Full Stack Engineer focused on end-to-end product development**, building applications from initial architecture and frontend experiences to backend systems, database design, and deployment.
 
----
+- 🚀 Building scalable SaaS platforms, multi-tenant applications, and complex business systems.
+- 🧩 Experienced in frontend architecture, REST APIs, authentication, RBAC, and database optimization.
+- 🗄️ Working with relational and NoSQL databases to build reliable, data-driven applications.
+- 🤖 Integrating AI capabilities into real-world products and business workflows.
+- ⚙️ Focused on maintainable code, performance, system design, and production reliability.
 
-### 🛠️ Tech Stack  
-
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)
+I enjoy owning problems end to end, understanding the business requirements, and turning them into working software.
 
 ---
 
-### 🌟 Featured Projects  
-
-- **[AI Recruitment Portal](#)** → An AI-powered platform to streamline hiring processes. *(Demo available on request)*  
-- **[Clothing App Backend](https://github.com/NaumanHaider868/clothing-backend-typescript)** → E-commerce backend built with **TypeScript, Prisma, and Node.js**.  
-- **Instagram Clone** → A social media app replicating **Instagram’s core features** with React & Tailwind.  
-- 🏢 **Team Projects @ Remain Systems** → Contributed to building **project management tools** similar to *Jira & ClickUp*.  
-
----
-
-### 🤝 Connect With Me  
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/nauman-haider-107002295/)  
-- 🏏 Fun fact: I’m a big cricket fan and love exploring history in my free time.  
-
----
+### 📈 GitHub Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaumanHaider868&show_icons=true&theme=radical" alt="Nauman's GitHub stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NaumanHaider868&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NaumanHaider868&theme=tokyo-night&hide_border=true"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,materialui,sass,bootstrap" alt="Frontend technologies" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" alt="Backend technologies" />
+</p>
+
+**Databases & Data Access**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma" alt="Databases and ORM tools" />
+</p>
+
+**Infrastructure & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vercel" alt="Development and infrastructure tools" />
+</p>
+
+**Other Technologies**
+
+- Real-time applications: Socket.IO
+- Background processing: BullMQ
+- Data visualization: Chart.js, ApexCharts
+- API validation: Joi
+- AI integrations: OpenAI and other LLM APIs
+
+---
+
+### 🚀 Featured Projects
+
+**1. SEO SaaS Platform**
+- Multi-tenant architecture, subscription packages, role-based access control, and usage limits.
+- Database optimization, background jobs, and AI-powered integrations.
+- Designed for data-intensive SEO workflows.
+
+**2. Clothing E-commerce Platform**
+- TypeScript, Node.js, Express, Prisma, and MySQL.
+- Product management, inventory, collections, and backend API architecture.
+
+**3. Instagram-Style Social Platform**
+- React and TypeScript frontend with a Node.js backend.
+- Posts, reels, real-time messaging, and notifications.
+
+**4. Project Management Applications**
+- Contributed to collaborative project-management products inspired by Jira and ClickUp.
+- Worked on task workflows, interactive data views, and application integrations.
+
+---
+
+### 🧠 Engineering Interests
+
+- System design and scalable application architecture
+- Database modeling, query optimization, and indexing
+- API design, authentication, and authorization
+- Background jobs, caching, and real-time communication
+- CI/CD, Linux servers, and production deployment
+- AI-assisted product features and automation
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NaumanHaider868&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanHaider868&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/nauman-haider-107002295/">
+    LinkedIn
+  </a>
+  ·
+  <a href="https://github.com/NaumanHaider868">
+    GitHub
+  </a>
 </p>
